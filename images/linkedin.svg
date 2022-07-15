@@ -1,0 +1,52 @@
+<svg viewBox="0 0 644 643" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><script xmlns="">try {
+                        Object.defineProperty(screen, "availTop", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availLeft", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availWidth", { value: 1366 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availHeight", { value: 768 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "colorDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "pixelDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "hardwareConcurrency", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "appVersion", { value: "5.0 (Windows)" });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "doNotTrack", { value: "unspecified" });
+                    } catch (e) {}
+                    
+            try {
+                window.screenY = 760
+            } catch (e) { }
+        
+            try {
+                window.screenTop = 760
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerHeight = window.screen.height
+            } catch (e) { }
+        
+            try {
+                window.screenX = 1358
+            } catch (e) { }
+        
+            try {
+                window.screenLeft = 1358
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerWidth = window.screen.width
+            } catch (e) { }
+        </script><path d="M77.37631 0c42.67504 0 77.3584 34.68336 77.3584 77.37506 0 42.7417-34.68336 77.42506-77.3584 77.42506-42.7917 0-77.37506-34.68336-77.37506-77.42506C.00125 34.68336 34.58461 0 77.37631 0M10.5971 213.52517h133.54594v429.49201H10.5971v-429.492zM227.86477 213.52517H355.9232v58.65838h1.825c17.82085-33.7542 61.37505-69.36672 126.31677-69.36672 135.0751 0 160.0293 88.92924 160.0293 204.621v235.57935H510.76083V434.16285c0-49.83754-.97917-113.9001-69.38756-113.9001-69.46672 0-80.06256 54.26672-80.06256 110.2876v212.46683H227.86477v-429.492z" fill="#99a1a8" fill-rule="nonzero"/></svg>

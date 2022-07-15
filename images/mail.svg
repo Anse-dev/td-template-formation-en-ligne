@@ -1,0 +1,52 @@
+<svg viewBox="0 0 24 15" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><script xmlns="">try {
+                        Object.defineProperty(screen, "availTop", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availLeft", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availWidth", { value: 1366 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availHeight", { value: 768 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "colorDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "pixelDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "hardwareConcurrency", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "appVersion", { value: "5.0 (Windows)" });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "doNotTrack", { value: "unspecified" });
+                    } catch (e) {}
+                    
+            try {
+                window.screenY = 760
+            } catch (e) { }
+        
+            try {
+                window.screenTop = 760
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerHeight = window.screen.height
+            } catch (e) { }
+        
+            try {
+                window.screenX = 1358
+            } catch (e) { }
+        
+            try {
+                window.screenLeft = 1358
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerWidth = window.screen.width
+            } catch (e) { }
+        </script><path d="M23.0402 11.8395c0 .521-.1914.9956-.4982 1.3734l-6.0214-5.7126 6.0214-5.7155c.3068.3787.4982.8533.4982 1.3724v8.6823zM3.2016 14.0528c-.3587 0-.6924-.093-.9925-.2392l5.9627-5.6575 3.496 3.3161a.4772.4772 0 00.3327.132.4801.4801 0 00.3318-.132l3.4959-3.3161 5.9627 5.6575c-.3.1462-.6338.2392-.9925.2392H3.2016zM.959 3.1572c0-.5191.1913-.9937.499-1.3724l6.0215 5.7155-6.0214 5.7126c-.3078-.3778-.4991-.8523-.4991-1.3734V3.1572zM20.7984.945c.3587 0 .6915.093.9925.2392l-9.7914 9.2878L2.2091 1.184c.3-.1462.6338-.2392.9925-.2392h17.5968zm2.11-.1585c-.001 0-.001 0-.0028-.0019-.001-.0019-.003-.0019-.0049-.0019a3.1973 3.1973 0 00-2.1023-.783H3.2016a3.201 3.201 0 00-2.1023.783s-.003 0-.0039.0019l-.0019.0019C.4251 1.3663 0 2.2129 0 3.1572v8.6823c0 .9453.4251 1.7929 1.0925 2.3709.001.0019.001.0038.003.0038.0009.0019.0028.0019.0028.0019.5645.4878 1.2993.7839 2.1033.7839h17.5968a3.198 3.198 0 002.1023-.784c.002 0 .003 0 .0049-.0018 0 0 .0019-.002.0019-.0038.6684-.578 1.0925-1.4256 1.0925-2.3709V3.1572c0-.9443-.4241-1.7909-1.0916-2.3708" fill="#959595" fill-rule="nonzero"/></svg>

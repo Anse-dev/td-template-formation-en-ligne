@@ -1,0 +1,11 @@
+{
+  "name": "pierre",
+  "version": "1.0.0",
+  "description": "Entreprise view site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass sass/style.scss css/main.css --watch"
+  },
+  "author": "jean66.anselme@gmail.com",
+  "license": "MIT"
+}
